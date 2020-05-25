@@ -1,6 +1,8 @@
 **Project name** : 
 Coursera-Course-Dataset
 
+**Publication:** https://medium.com/analytics-vidhya/web-scraping-and-coursera-8db6af45d83f
+
 **Description** : 
 The project aims to scrap through data from website of Coursera and generate a csv file for its analysis.
 
