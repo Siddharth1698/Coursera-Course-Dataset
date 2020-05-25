@@ -5,9 +5,10 @@ Coursera-Course-Dataset
 The project aims to scrap through data from website of Coursera and generate a csv file for its analysis.
 
 **Table of Contents** :
- 	scrapping_coursera.py : Used for scrapping
+ 
+ 1. scrapping_coursera.py : Used for scrapping
   
-  UCoursera_Courses.csv : The final scrapped CSV file.
+ 2. UCoursera_Courses.csv : The final scrapped CSV file.
 
 
 **Usage** : 
