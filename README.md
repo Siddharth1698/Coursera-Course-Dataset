@@ -9,6 +9,11 @@ The project aims to scrap through data from website of Coursera and generate a c
  1. scrapping_coursera.py : Used for scrapping
   
  2. UCoursera_Courses.csv : The final scrapped CSV file.
+ 
+ **Libraries used** :
+ 
+ https://pypi.org/project/beautifulsoup4/
+ 
 
 
 **Usage** : 
